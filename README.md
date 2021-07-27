@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/iskanderomanov/screenshots/blob/master/site.png" width="900"></a></p>
+<p align="center"><a href="https://isko.gq" target="_blank"><img src="https://github.com/iskanderomanov/screenshots/blob/master/site.png" width="1000"></a></p>
 
 
 ## Сайт портфолио
